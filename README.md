@@ -13,5 +13,4 @@ Project to match those in need of shoveled access of bus stops, sidewalks, drive
 #History
 
 #License
-
-
+- [Read our license based on MIT](https://github.com/friendlycode/shoveling-snow-angels/blob/master/license.md)
