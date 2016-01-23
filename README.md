@@ -7,6 +7,9 @@ Project to match those in need of shoveled access of bus stops, sidewalks, drive
 - What is the goal of this project?
 
 #How You Can Help
+We are just kicking this project so check in here often. For now the best place is to check our open issues that we will be utilizing throughou the project.
+
+- Check out our [Issues](https://github.com/friendlycode/shoveling-snow-angels/issues)
 
 #Project Details
 
