@@ -11,7 +11,7 @@ Project to match those in need of shoveled access of bus stops, sidewalks, drive
 #How You Can Help
 We are just kicking this project so check in here often, there will be many more ways as we progress. For now the best place is to check our open issues that we will be utilizing throughou the project.
 
-- Check out our [Issues](https://github.com/friendlycode/shoveling-snow-angels/issues)
+- Check out our [Issues](https://github.com/friendlycode/shoveling-snow-angels/issues), which can also be viewed [Waffle](https://waffle.io/friendlycode/shoveling-snow-angels)
 
 #Project Details
 
