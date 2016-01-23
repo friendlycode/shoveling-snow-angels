@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/friendlycode/shoveling-snow-angels.png?label=ready&title=Ready)](https://waffle.io/friendlycode/shoveling-snow-angels)
 [![Stories in Ready](https://badge.waffle.io/Allen616/shoveling-snow-angels.png?label=ready&title=Ready)](https://waffle.io/Allen616/shoveling-snow-angels)
 # Shoveling Snow Angels
 Project to match those in need of shoveled access of bus stops, sidewalks, driveways, and fire hydrants with volunteers that can help clear snow.
