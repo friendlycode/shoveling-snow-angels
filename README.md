@@ -13,6 +13,8 @@ We are just kicking this project so check in here often, there will be many more
 
 - Check out our [Issues](https://github.com/friendlycode/shoveling-snow-angels/issues), which can also be viewed on  [Waffle](https://waffle.io/friendlycode/shoveling-snow-angels)
 
+* Please make sure you read the [Code of Conduct](https://github.com/friendlycode/codeofconduct/blob/master/README.md) before you start participating.
+
 #Project Details
 
 - [Shoveling Snow Angel Project Wiki](https://github.com/friendlycode/shoveling-snow-angels/wiki)
