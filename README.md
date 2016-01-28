@@ -23,6 +23,7 @@ Please make sure you read our [Code of Conduct](https://github.com/friendlycode/
 Current state of project in bold.
 
 - **Discovery**
+ - [Discovery presentation](https://docs.google.com/a/friendlycode.org/presentation/d/1w9chnrzLg5CmsVtQiTGtYmJmkBhvbcRlSdcDC87cq-o/edit?usp=sharing)
 - Alpha
 - Beta
 - Live
