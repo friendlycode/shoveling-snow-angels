@@ -1,3 +1,4 @@
+**Status**: Shoveling Snow Angels is not currently under active development. This will be reassessed once a primary community project partner is identified.
 
 [![Stories in Ready](https://badge.waffle.io/friendlycode/shoveling-snow-angels.svg?label=ready&title=Ready)](http://waffle.io/friendlycode/shoveling-snow-angels)
 # Shoveling Snow Angels
@@ -20,6 +21,8 @@ Please make sure you read our [Code of Conduct](https://github.com/friendlycode/
 - [Shoveling Snow Angel Project Wiki](https://github.com/friendlycode/shoveling-snow-angels/wiki)
 
 #History
+**Status**: Shoveling Snow Angels is not currently under active development. This will be reassessed once a primary community project partner is identified. Work on the project was suspended while in the early Discovery stage.
+
 Current state of project in bold.
 
 - **Discovery**
